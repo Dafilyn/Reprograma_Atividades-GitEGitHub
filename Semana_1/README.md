@@ -10,7 +10,7 @@ Ou seja de uma simples receita de bolo à solução de um cubo mágico quase tod
 
 > *Autômato do filme que fazia desenhos complexos a partir de um algoritmo.*
 
-Um dos métodos mais utilizados para se desenvolver um algoritmo é utilizando um formato de fluxograma, um esquema visual com caracteristicas fixas que permitem que qualquer pessoa possa compreender o algoritmo de forma eficiente.
+Um dos métodos mais utilizados para se desenvolver um algoritmo é utilizando um formato de **fluxograma**, um esquema visual com caracteristicas fixas que permitem que qualquer pessoa possa compreender o algoritmo de forma eficiente.
 
 ## 2 - [Qual a diferença entre Framework e Biblioteca?](https://www.treinaweb.com.br/blog/qual-a-diferenca-entre-framework-e-biblioteca)
 
