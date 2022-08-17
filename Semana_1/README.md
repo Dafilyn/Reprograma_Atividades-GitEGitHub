@@ -12,3 +12,5 @@ Um dos métodos mais utilizados para se desenvolver um algoritmo é utilizando u
 
 ## 2 - [Qual a diferença entre Framework e Biblioteca?](https://www.treinaweb.com.br/blog/qual-a-diferenca-entre-framework-e-biblioteca)
 
+## 3 - [Como a Internet funciona?](https://developer.mozilla.org/pt-BR/docs/Learn/Common_questions/How_does_the_Internet_work)
+
