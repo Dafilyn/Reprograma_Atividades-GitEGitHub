@@ -8,7 +8,7 @@ Ou seja de uma simples receita de bolo à solução de um cubo mágico quase tod
 
 ![Autômato do filme A invenção de Hugo Cabret ](https://i.pinimg.com/originals/13/e0/02/13e002ce2bf43175c65cf190d92c4125.jpg)
 
-> *Autômato do filme que fazia desenhos complexos apartir de um algoritmo.*
+> *Autômato do filme que fazia desenhos complexos a partir de um algoritmo.*
 
 Um dos métodos mais utilizados para se desenvolver um algoritmo é utilizando um formato de fluxograma, um esquema visual com caracteristicas fixas que permitem que qualquer pessoa possa compreender o algoritmo de forma eficiente.
 
