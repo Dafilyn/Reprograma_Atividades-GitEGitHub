@@ -7,6 +7,7 @@ Pela definição de dicionário, algoritmo é:
 Ou seja de uma simples receita de bolo à solução de um cubo mágico quase toda ação pode ser convertida em um algoritmo. Mas ele por si só não é programa e sim as condições que devem ser atendidas para que o problema seja resolvido, tanto que o mesmo pode ser executado por diferentes fontes: computadores, autômatos e pessoas
 
 ![Autômato do filme A invenção de Hugo Cabret ](https://i.pinimg.com/originals/13/e0/02/13e002ce2bf43175c65cf190d92c4125.jpg)
+*Autômato do filme que fazia desenhos complexos em uma única linha!*
 
 Um dos métodos mais utilizados para se desenvolver um algoritmo é utilizando um formato de fluxograma, um esquema visual com caracteristicas fixas que permitem que qualquer pessoa possa compreender o algoritmo de forma eficiente.
 
