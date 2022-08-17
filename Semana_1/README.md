@@ -8,11 +8,13 @@ Ou seja de uma simples receita de bolo à solução de um cubo mágico quase tod
 
 ![Autômato do filme A invenção de Hugo Cabret ](https://i.pinimg.com/originals/13/e0/02/13e002ce2bf43175c65cf190d92c4125.jpg)
 
-*Autômato do filme que fazia desenhos complexos em uma única linha!*
+> *Autômato do filme que fazia desenhos complexos em uma única linha!*
 
 Um dos métodos mais utilizados para se desenvolver um algoritmo é utilizando um formato de fluxograma, um esquema visual com caracteristicas fixas que permitem que qualquer pessoa possa compreender o algoritmo de forma eficiente.
 
 ## 2 - [Qual a diferença entre Framework e Biblioteca?](https://www.treinaweb.com.br/blog/qual-a-diferenca-entre-framework-e-biblioteca)
+
+
 
 ## 3 - [Como a Internet funciona?](https://developer.mozilla.org/pt-BR/docs/Learn/Common_questions/How_does_the_Internet_work)
 
