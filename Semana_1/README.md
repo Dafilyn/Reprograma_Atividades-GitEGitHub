@@ -1,4 +1,6 @@
-# Exercício de casa :bowtie: (resumos)
+# Exercício de casa :memo:
+*resumos*
+
 ## [O que é algoritmo?](https://tecnoblog.net/responde/o-que-e-algoritmo/) <br>
 
 Pela definição de dicionário, algoritmo é:
