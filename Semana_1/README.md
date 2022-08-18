@@ -8,7 +8,6 @@
 2. [Como a Internet funciona?](#satellite-como-a-internet-funciona)
 3. [Qual a diferença entre Framework e Biblioteca?](#books-qual-a-diferen%C3%A7a-entre-framework-e-biblioteca)
 
-
 <br>
 
 ## [O que é algoritmo?](https://tecnoblog.net/responde/o-que-e-algoritmo/)
