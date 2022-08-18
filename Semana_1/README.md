@@ -1,4 +1,4 @@
-# Exercício de casa :memo
+# Exercício de casa :memo:
 
 *Resumos*
 
