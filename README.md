@@ -2,4 +2,4 @@
 
 ## Turma 19
 
-As pastas aqui serão divididas por semana para melhor dividir cada exercicio de casa :winkle:
+As pastas aqui serão divididas por semana para melhor dividir cada exercicio de casa :computer:
