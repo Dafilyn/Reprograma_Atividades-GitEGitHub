@@ -1,6 +1,4 @@
-# Exercício de casa :memo:
-
-*Resumos*
+# Exercício de casa :memo: - *Resumos*
 
 ## Índice
 
