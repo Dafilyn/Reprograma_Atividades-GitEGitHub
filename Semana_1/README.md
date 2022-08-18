@@ -32,21 +32,21 @@ Para resolver este problema, cada computador na rede está conectado a um pequen
  São conjuntos de códigos que padronizam determinadas soluções de problemas e sempre que alguem quiser solucionar determinado problema pode chamar a biblioteca, ou seja nós estamos fazendo uma calculadora, em vez de cada um escrever as funções de soma e subtração, chamamos uma biblioteca que já tem essas funções padronizadas, poupando tempo de desenvolvimento.
 
 * [Moment.js](https://momentjs.com/) : Biblioteca para converter, validar, manipular e exibir datas e horários
-* Chart.js: Biblioteca para a criação de gráficos
-* Voca: Biblioteca para trabalhar com Strings
-* mo.js: Biblioteca para criar animações incríveis com SVG. Já fizemos um post sobre como começar com o mo.js
-* React: Biblioteca para criar interfaces de usuário. Se quiser conhecer um pouquinho, temos um post aqui no blog para você conhecer o React
+* [Chart.js](https://www.chartjs.org/) : Biblioteca para a criação de gráficos
+* [Voca](https://vocajs.com/): Biblioteca para trabalhar com Strings
+* [mo.js](https://mojs.github.io/): Biblioteca para criar animações incríveis com SVG. Já fizemos um post sobre como começar com o mo.js
+* [React](https://reactjs.org/): Biblioteca para criar interfaces de usuário. Se quiser conhecer um pouquinho, temos um post aqui no blog para você conhecer o React
 
 
 ### O que é framework?
  
  É uma estrutura que permite o desenvolvimento, ele pode possuir uma coleção de bibliotecas com padrões pra facilitar seu desenvolvimento. Desta forma, o desenvolvedor acessa o framework que contém padrões de implementação (bibliotecas, funções, formas de chamada, jeitos de escrita e etc...) de modo que padronize todo o códigos escritos nesse framework e não só as funções
 
-* Angular: Framework para criação de aplicações web
-* Vue.js: Framework também para criação de aplicações web
-* Ionic: Framework para criar aplicativos mobile com Angular, React ou Vue
-* Express: Framework para criar aplicações com Node.js
-* LoopBack: Framework para criar APIs e microserviços com Node.js
+* [Angular](https://angular.io/): Framework para criação de aplicações web
+* [Vue.js](https://vuejs.org/): Framework também para criação de aplicações web
+* [Ionic](https://ionicframework.com/): Framework para criar aplicativos mobile com Angular, React ou Vue
+* [Express](https://expressjs.com/): Framework para criar aplicações com Node.js
+* [LoopBack](https://loopback.io/): Framework para criar APIs e microserviços com Node.js
 
 ### A diferença
  
