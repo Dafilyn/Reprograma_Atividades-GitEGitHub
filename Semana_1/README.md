@@ -31,6 +31,7 @@ Para resolver este problema, cada computador na rede está conectado a um pequen
 
  São conjuntos de códigos que padronizam determinadas soluções de problemas e sempre que alguem quiser solucionar determinado problema pode chamar a biblioteca, ou seja nós estamos fazendo uma calculadora, em vez de cada um escrever as funções de soma e subtração, chamamos uma biblioteca que já tem essas funções padronizadas, poupando tempo de desenvolvimento.
 
+Exemplos de biblioteca em JavaScript:
 * [Moment.js](https://momentjs.com/) : Biblioteca para converter, validar, manipular e exibir datas e horários
 * [Chart.js](https://www.chartjs.org/) : Biblioteca para a criação de gráficos
 * [Voca](https://vocajs.com/): Biblioteca para trabalhar com Strings
@@ -40,8 +41,9 @@ Para resolver este problema, cada computador na rede está conectado a um pequen
 
 ### O que é framework?
  
- É uma estrutura que permite o desenvolvimento, ele pode possuir uma coleção de bibliotecas com padrões pra facilitar seu desenvolvimento. Desta forma, o desenvolvedor acessa o framework que contém padrões de implementação (bibliotecas, funções, formas de chamada, jeitos de escrita e etc...) de modo que padronize todo o códigos escritos nesse framework e não só as funções
+  É uma estrutura que permite o desenvolvimento, ele pode possuir uma coleção de bibliotecas com padrões pra facilitar seu desenvolvimento. Desta forma, o desenvolvedor acessa o framework que contém padrões de implementação (bibliotecas, funções, formas de chamada, jeitos de escrita e etc...) de modo que padronize todo o códigos escritos nesse framework e não só as funções
 
+Exemplos de framework em JavaScript:
 * [Angular](https://angular.io/): Framework para criação de aplicações web
 * [Vue.js](https://vuejs.org/): Framework também para criação de aplicações web
 * [Ionic](https://ionicframework.com/): Framework para criar aplicativos mobile com Angular, React ou Vue
