@@ -1,12 +1,16 @@
-# Exercício de casa :memo:
-*resumos*
+# Exercício de casa :memo
+
+*Resumos*
 
 ## Índice
-1. [O que é um algoritmo](#o-que-%C3%A9-algoritmo-)
-2. [Como a Internet funciona?](#satellite-como-a-internet-funciona)
-3. [Qual a diferença entre Framework e Biblioteca?](#books-qual-a-diferen%C3%A7a-entre-framework-e-biblioteca-)
 
-## [O que é algoritmo?](https://tecnoblog.net/responde/o-que-e-algoritmo/) <br>
+1. [O que é um algoritmo](#o-que-%C3%A9-algoritmo)
+2. [Como a Internet funciona?](#satellite-como-a-internet-funciona)
+3. [Qual a diferença entre Framework e Biblioteca?](#books-qual-a-diferen%C3%A7a-entre-framework-e-biblioteca)
+
+## [O que é algoritmo?](https://tecnoblog.net/responde/o-que-e-algoritmo/)
+
+<br>
 
 Pela definição de dicionário, algoritmo é:
 > Um conjunto de regras e procedimentos lógicos perfeitamente definidos que levam a solução de um problema em um número finito de etapas
@@ -19,7 +23,6 @@ Ou seja, de uma simples receita de bolo à solução de um cubo mágico quase to
 
 Um dos métodos mais utilizados para se desenvolver um algoritmo é utilizando um formato de **fluxograma**, um esquema visual com caracteristicas fixas que permitem que qualquer pessoa possa compreender o algoritmo de forma eficiente.
 
-
 ## :satellite: [Como a Internet funciona?](https://developer.mozilla.org/pt-BR/docs/Learn/Common_questions/How_does_the_Internet_work)
 
 Começou como um projeto de pesquisa na década de 60, com o apoio das universidades e empresas privadas e tornou-se uma infraestrutura pública nos anos 80. Sua finalidade não mudou muito com o passar do tempo, ou seja, a Internet é uma gigantesca rede que liga computadores para garantir, em qualquer situação, que eles encontrem uma forma de se manter conectados. Mesmo hoje, na nova era, o termo "nuvem" nada mais é do que cabos de cobre de fibra óptica enterrados na terra, ocasionalmente via satélite ou rede de telefonia celular.
@@ -29,10 +32,13 @@ Para resolver este problema, cada computador na rede está conectado a um pequen
 
 ![Internet](figura.png)
 
+## :books: [Qual a diferença entre Framework e Biblioteca?](https://www.treinaweb.com.br/blog/qual-a-diferenca-entre-framework-e-biblioteca)
 
-## :books: [Qual a diferença entre Framework e Biblioteca?](https://www.treinaweb.com.br/blog/qual-a-diferenca-entre-framework-e-biblioteca) <br>
+<br>
 
-### O que é biblioteca? <br>
+### O que é biblioteca?
+
+<br>
 
  São conjuntos de códigos que padronizam determinadas soluções de problemas e sempre que alguem quiser solucionar determinado problema pode chamar a biblioteca, ou seja nós estamos fazendo uma calculadora, em vez de cada um escrever as funções de soma e subtração, chamamos uma biblioteca que já tem essas funções padronizadas, poupando tempo de desenvolvimento.
 
@@ -44,9 +50,10 @@ Exemplos de biblioteca em JavaScript:
 * [mo.js](https://mojs.github.io/): Biblioteca para criar animações incríveis com SVG. Já fizemos um post sobre como começar com o mo.js
 * [React](https://reactjs.org/): Biblioteca para criar interfaces de usuário. Se quiser conhecer um pouquinho, temos um post aqui no blog para você conhecer o React
 
+### O que é framework?
 
-### O que é framework? <br>
- 
+<br>
+
   É uma estrutura que permite o desenvolvimento, ele pode possuir uma coleção de bibliotecas com padrões pra facilitar seu desenvolvimento. Desta forma, o desenvolvedor acessa o framework que contém padrões de implementação (bibliotecas, funções, formas de chamada, jeitos de escrita e etc...) de modo que padronize todo o códigos escritos nesse framework e não só as funções
 
 Exemplos de framework em JavaScript:
@@ -57,8 +64,10 @@ Exemplos de framework em JavaScript:
 * [Express](https://expressjs.com/): Framework para criar aplicações com Node.js
 * [LoopBack](https://loopback.io/): Framework para criar APIs e microserviços com Node.js
 
-### A diferença <br>
- 
+### A diferença
+
+<br>
+
  A biblioteca permite um desenvolvimento mais "sem compromisso" permitindo você chamar quando quer e precisar de determinada funcionalidade sem se preocupar tanto com a estrutura utilizada, já o framework deve se seguir um padrão para esse desenvolvimento acontecer, ele já vem com uma estrutura pronta, o que pode significar menos liberdade nas escolhas de funcionalidade, porem mais segurança e agilidade.
 
  *Agradeço a oportunidade!*
