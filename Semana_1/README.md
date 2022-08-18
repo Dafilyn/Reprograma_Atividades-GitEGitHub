@@ -1,6 +1,11 @@
 # Exercício de casa :memo:
 *resumos*
 
+## Índice
+1 - ![O que é um algoritmo](https://github.com/Dafilyn/Reprograma_Atividades-GitEGitHub/tree/main/Semana_1#o-que-%C3%A9-algoritmo-)
+2 - ![Como a Internet funciona?](https://github.com/Dafilyn/Reprograma_Atividades-GitEGitHub/tree/main/Semana_1#satellite-como-a-internet-funciona)
+3 - ![Qual a diferença entre Framework e Biblioteca?](https://github.com/Dafilyn/Reprograma_Atividades-GitEGitHub/tree/main/Semana_1#books-qual-a-diferen%C3%A7a-entre-framework-e-biblioteca)
+
 ## [O que é algoritmo?](https://tecnoblog.net/responde/o-que-e-algoritmo/) <br>
 
 Pela definição de dicionário, algoritmo é:
