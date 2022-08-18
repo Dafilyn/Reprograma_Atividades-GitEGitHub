@@ -2,9 +2,9 @@
 *resumos*
 
 ## Índice
-1 - ![O que é um algoritmo](https://github.com/Dafilyn/Reprograma_Atividades-GitEGitHub/tree/main/Semana_1#o-que-%C3%A9-algoritmo-)
-2 - ![Como a Internet funciona?](https://github.com/Dafilyn/Reprograma_Atividades-GitEGitHub/tree/main/Semana_1#satellite-como-a-internet-funciona)
-3 - ![Qual a diferença entre Framework e Biblioteca?](https://github.com/Dafilyn/Reprograma_Atividades-GitEGitHub/tree/main/Semana_1#books-qual-a-diferen%C3%A7a-entre-framework-e-biblioteca)
+1. [O que é um algoritmo](#o-que-%C3%A9-algoritmo-)
+2. [Como a Internet funciona?](#satellite-como-a-internet-funciona)
+3. [Qual a diferença entre Framework e Biblioteca?](#books-qual-a-diferen%C3%A7a-entre-framework-e-biblioteca)
 
 ## [O que é algoritmo?](https://tecnoblog.net/responde/o-que-e-algoritmo/) <br>
 
@@ -30,13 +30,14 @@ Para resolver este problema, cada computador na rede está conectado a um pequen
 ![Internet](figura.png)
 
 
-## :books: [Qual a diferença entre Framework e Biblioteca?](https://www.treinaweb.com.br/blog/qual-a-diferenca-entre-framework-e-biblioteca)
+## :books: [Qual a diferença entre Framework e Biblioteca?](https://www.treinaweb.com.br/blog/qual-a-diferenca-entre-framework-e-biblioteca) <br>
 
-### O que é biblioteca?
+### O que é biblioteca? <br>
 
  São conjuntos de códigos que padronizam determinadas soluções de problemas e sempre que alguem quiser solucionar determinado problema pode chamar a biblioteca, ou seja nós estamos fazendo uma calculadora, em vez de cada um escrever as funções de soma e subtração, chamamos uma biblioteca que já tem essas funções padronizadas, poupando tempo de desenvolvimento.
 
 Exemplos de biblioteca em JavaScript:
+
 * [Moment.js](https://momentjs.com/) : Biblioteca para converter, validar, manipular e exibir datas e horários
 * [Chart.js](https://www.chartjs.org/) : Biblioteca para a criação de gráficos
 * [Voca](https://vocajs.com/): Biblioteca para trabalhar com Strings
@@ -44,17 +45,20 @@ Exemplos de biblioteca em JavaScript:
 * [React](https://reactjs.org/): Biblioteca para criar interfaces de usuário. Se quiser conhecer um pouquinho, temos um post aqui no blog para você conhecer o React
 
 
-### O que é framework?
+### O que é framework? <br>
  
   É uma estrutura que permite o desenvolvimento, ele pode possuir uma coleção de bibliotecas com padrões pra facilitar seu desenvolvimento. Desta forma, o desenvolvedor acessa o framework que contém padrões de implementação (bibliotecas, funções, formas de chamada, jeitos de escrita e etc...) de modo que padronize todo o códigos escritos nesse framework e não só as funções
 
 Exemplos de framework em JavaScript:
+
 * [Angular](https://angular.io/): Framework para criação de aplicações web
 * [Vue.js](https://vuejs.org/): Framework também para criação de aplicações web
 * [Ionic](https://ionicframework.com/): Framework para criar aplicativos mobile com Angular, React ou Vue
 * [Express](https://expressjs.com/): Framework para criar aplicações com Node.js
 * [LoopBack](https://loopback.io/): Framework para criar APIs e microserviços com Node.js
 
-### A diferença
+### A diferença <br>
  
  A biblioteca permite um desenvolvimento mais "sem compromisso" permitindo você chamar quando quer e precisar de determinada funcionalidade sem se preocupar tanto com a estrutura utilizada, já o framework deve se seguir um padrão para esse desenvolvimento acontecer, ele já vem com uma estrutura pronta, o que pode significar menos liberdade nas escolhas de funcionalidade, porem mais segurança e agilidade.
+
+ *Agradeço a oportunidade!*
