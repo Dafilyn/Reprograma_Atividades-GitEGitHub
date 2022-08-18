@@ -1,4 +1,4 @@
-# Exercício de casa (resumos)
+# Exercício de casa :bowtie: (resumos)
 ## 1 - [O que é algoritmo?](https://tecnoblog.net/responde/o-que-e-algoritmo/) <br>
 
 Pela definição de dicionário, algoritmo é:
@@ -12,9 +12,9 @@ Ou seja de uma simples receita de bolo à solução de um cubo mágico quase tod
 
 Um dos métodos mais utilizados para se desenvolver um algoritmo é utilizando um formato de **fluxograma**, um esquema visual com caracteristicas fixas que permitem que qualquer pessoa possa compreender o algoritmo de forma eficiente.
 
-## 2 - [Qual a diferença entre Framework e Biblioteca?](https://www.treinaweb.com.br/blog/qual-a-diferenca-entre-framework-e-biblioteca)
+## 2 - :books: [Qual a diferença entre Framework e Biblioteca?](https://www.treinaweb.com.br/blog/qual-a-diferenca-entre-framework-e-biblioteca)
 
 
 
-## 3 - [Como a Internet funciona?](https://developer.mozilla.org/pt-BR/docs/Learn/Common_questions/How_does_the_Internet_work)
+## 3 - :satellite: [Como a Internet funciona?](https://developer.mozilla.org/pt-BR/docs/Learn/Common_questions/How_does_the_Internet_work)
 
