@@ -53,8 +53,8 @@ Exemplos de biblioteca em JavaScript:
 * [Moment.js](https://momentjs.com/) : Biblioteca para converter, validar, manipular e exibir datas e horários
 * [Chart.js](https://www.chartjs.org/) : Biblioteca para a criação de gráficos
 * [Voca](https://vocajs.com/): Biblioteca para trabalhar com Strings
-* [mo.js](https://mojs.github.io/): Biblioteca para criar animações incríveis com SVG. Já fizemos um post sobre como começar com o mo.js
-* [React](https://reactjs.org/): Biblioteca para criar interfaces de usuário. Se quiser conhecer um pouquinho, temos um post aqui no blog para você conhecer o React
+* [mo.js](https://mojs.github.io/): Biblioteca para criar animações incríveis com SVG. 
+* [React](https://reactjs.org/): Biblioteca para criar interfaces de usuário.
 
 ### O que é framework?
 
