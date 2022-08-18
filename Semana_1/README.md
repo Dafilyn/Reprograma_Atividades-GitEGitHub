@@ -37,7 +37,7 @@ Começou como um projeto de pesquisa na década de 60, com o apoio das universid
 Podem ser conectados quantos computadores forem necessários, porém conforme aumenta a quantidade de computadores mais complicado se torna. Imaginamos que se você está tentando conectar, digamos, dez computadores, você irá precisar de 45 cabos, com 9 conexões por computador.
 Para resolver este problema, cada computador na rede está conectado a um pequeno computador especial chamado de *roteador*. Este roteador tem um único trabalho: ter certeza de que a mensagem enviada por um determinado computador chegue ao computador destinatário corretamente, ou seja, garantir que a mensagem do computador A chegue no computador B e não seja entregue no computador C.
 
-![Internet](/figuras/figura.png)
+![Internet](./figuras/figura.png)
 
 ## :books: [Qual a diferença entre Framework e Biblioteca?](https://www.treinaweb.com.br/blog/qual-a-diferenca-entre-framework-e-biblioteca)
 
