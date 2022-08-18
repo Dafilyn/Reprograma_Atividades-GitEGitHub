@@ -17,7 +17,7 @@ Um dos métodos mais utilizados para se desenvolver um algoritmo é utilizando u
 
 Começou como um projeto de pesquisa na década de 60, com o apoio das universidades e empresas privadas e tornou-se uma infraestrutura pública nos anos 80. Sua finalidade não mudou muito com o passar do tempo, ou seja, a Internet é uma gigantesca rede que liga computadores para garantir, em qualquer situação, que eles encontrem uma forma de se manter conectados. Mesmo hoje, na nova era, o termo "nuvem" nada mais é do que cabos de cobre de fibra óptica enterrados na terra, em alguns casos via satélite ou rede de telefonia celular.
 
-![Finalidade da Internet] ()
+![Finalidade da Internet](figura)
 
 
 ## :books: [Qual a diferença entre Framework e Biblioteca?](https://www.treinaweb.com.br/blog/qual-a-diferenca-entre-framework-e-biblioteca)
