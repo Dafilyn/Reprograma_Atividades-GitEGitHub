@@ -12,9 +12,12 @@ Ou seja de uma simples receita de bolo à solução de um cubo mágico quase tod
 
 Um dos métodos mais utilizados para se desenvolver um algoritmo é utilizando um formato de **fluxograma**, um esquema visual com caracteristicas fixas que permitem que qualquer pessoa possa compreender o algoritmo de forma eficiente.
 
-## 2 - :books: [Qual a diferença entre Framework e Biblioteca?](https://www.treinaweb.com.br/blog/qual-a-diferenca-entre-framework-e-biblioteca)
+
+## 2 - :satellite: [Como a Internet funciona?](https://developer.mozilla.org/pt-BR/docs/Learn/Common_questions/How_does_the_Internet_work)
+
+Começou como um projeto de pesquisa na década de 60, com o apoio das universidades e empresas privadas e tornou-se uma infraestrutura pública nos anos 80. Sua finalidade não mudou muito com o passar do tempo, ou seja, a Internet é uma gigantesca rede que liga computadores para garantir, em qualquer situação, que eles encontrem uma forma de se manter conectados. Mesmo hoje, na nova era, o termo "nuvem" nada mais é do que cabos de cobre de fibra óptica enterrados na terra, em alguns casos via satélite ou rede de telefonia celular.
+
+![Finalidade da Internet (figura)](—Pngtree—information technology cloud computing is_6406337.png)
 
 
-
-## 3 - :satellite: [Como a Internet funciona?](https://developer.mozilla.org/pt-BR/docs/Learn/Common_questions/How_does_the_Internet_work)
-
+## 3 - :books: [Qual a diferença entre Framework e Biblioteca?](https://www.treinaweb.com.br/blog/qual-a-diferenca-entre-framework-e-biblioteca)
