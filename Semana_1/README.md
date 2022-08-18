@@ -6,10 +6,7 @@
 
 1. [O que é um algoritmo](#o-que-%C3%A9-algoritmo)
 2. [Como a Internet funciona?](#satellite-como-a-internet-funciona)
-3. [Qual a diferença entre Framework e Biblioteca?](#books-qual-a-diferen%C3%A7a-entre-framework-e-biblioteca)
-* [O que é biblioteca](#o-que-é-biblioteca)
-* [O que é framework?](#o-que-é-framework)
-* [A diferença](#a-diferença)
+3. [Qual a diferença entre Framework e Biblioteca?](#books-qual-a-diferen%C3%A7a-entre-framework-e-biblioteca) * [O que é biblioteca](#o-que-é-biblioteca) * [O que é framework?](#o-que-é-framework) * [A diferença](#a-diferença)
 
 <br>
 
