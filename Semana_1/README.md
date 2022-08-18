@@ -23,7 +23,11 @@ Ou seja, de uma simples receita de bolo à solução de um cubo mágico quase to
 
 Um dos métodos mais utilizados para se desenvolver um algoritmo é utilizando um formato de **fluxograma**, um esquema visual com caracteristicas fixas que permitem que qualquer pessoa possa compreender o algoritmo de forma eficiente.
 
+<br>
+
 ## :satellite: [Como a Internet funciona?](https://developer.mozilla.org/pt-BR/docs/Learn/Common_questions/How_does_the_Internet_work)
+
+<br>
 
 Começou como um projeto de pesquisa na década de 60, com o apoio das universidades e empresas privadas e tornou-se uma infraestrutura pública nos anos 80. Sua finalidade não mudou muito com o passar do tempo, ou seja, a Internet é uma gigantesca rede que liga computadores para garantir, em qualquer situação, que eles encontrem uma forma de se manter conectados. Mesmo hoje, na nova era, o termo "nuvem" nada mais é do que cabos de cobre de fibra óptica enterrados na terra, ocasionalmente via satélite ou rede de telefonia celular.
 
