@@ -23,9 +23,8 @@ Começou como um projeto de pesquisa na década de 60, com o apoio das universid
 ## :books: [Qual a diferença entre Framework e Biblioteca?](https://www.treinaweb.com.br/blog/qual-a-diferenca-entre-framework-e-biblioteca)
 
 ### O que é biblioteca?
- 
- São conjuntos de códigos que padronizam determinadas soluções de problemas e sempre que alguem quiser solucionar determinado problema pode chamar a biblioteca, ou seja nós estamos fazendo uma calculadora,
- em vez de cada um escrever as funções de soma e subtração, chamamos uma biblioteca que já tem essas funções padronizadas, poupando tempo de desenvolvimento.
+
+São conjuntos de códigos que padronizam determinadas soluções de problemas e sempre que alguem quiser solucionar determinado problema pode chamar a biblioteca, ou seja nós estamos fazendo uma calculadora, em vez de cada um escrever as funções de soma e subtração, chamamos uma biblioteca que já tem essas funções padronizadas, poupando tempo de desenvolvimento.
 
 O que é framework?
  
