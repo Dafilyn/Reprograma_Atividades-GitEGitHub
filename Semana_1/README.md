@@ -24,7 +24,7 @@ Ou seja, de uma simples receita de bolo à solução de um cubo mágico quase to
 <h6 align="center">
 
 ![Autômato do filme A invenção de Hugo Cabret ](https://i.pinimg.com/originals/13/e0/02/13e002ce2bf43175c65cf190d92c4125.jpg)
-> *Autômato do filme que faz desenhos complexos a partir de um algoritmo.*
+*Autômato do filme que faz desenhos complexos a partir de um algoritmo.*
 
 </h6>
 
